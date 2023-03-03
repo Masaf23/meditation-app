@@ -1,4 +1,4 @@
-# calm-app-vue
+# meditation-app
 
 Vue app inspired by the Calm Meditation App
 
